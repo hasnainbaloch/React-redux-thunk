@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `DEPENDENCIES`
+### `Dependencies`
 
 yarn add redux react-redux redux-thunk redux-logger redux-devtools-extension
 
