@@ -1,2 +1,2 @@
 # React-redux-thunk
-Ract app with async redux store
+React app with async redux store
